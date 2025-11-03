@@ -1,4 +1,4 @@
-# shopping_ui_app
+# Shopping UI App
 
 - Lab Task
 - Mobile Application Development
